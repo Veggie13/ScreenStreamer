@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenStreamer", "ScreenStreamer\ScreenStreamer.csproj", "{096219FE-AFBC-4662-825A-8C7A09FEDE70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenStreamViewer", "ScreenStreamViewer\ScreenStreamViewer.csproj", "{20A86F18-8DF7-43E9-B16F-28888D0586C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096219FE-AFBC-4662-825A-8C7A09FEDE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096219FE-AFBC-4662-825A-8C7A09FEDE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096219FE-AFBC-4662-825A-8C7A09FEDE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096219FE-AFBC-4662-825A-8C7A09FEDE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A86F18-8DF7-43E9-B16F-28888D0586C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A86F18-8DF7-43E9-B16F-28888D0586C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A86F18-8DF7-43E9-B16F-28888D0586C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A86F18-8DF7-43E9-B16F-28888D0586C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDF14F1-00CE-4307-9AF6-4E2200C70545}
+	EndGlobalSection
+EndGlobal
